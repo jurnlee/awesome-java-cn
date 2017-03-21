@@ -175,120 +175,120 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="compiler-compiler">编译器生成工具</h3>
 *用来创建解析器、解释器或编译器的框架。*
 
-* [ANTLR](http://hao.jobbole.com/antlr/)：复杂的全功能自顶向下解析框架。[官网](http://www.antlr.org/)
-* [JavaCC](JavaCC：Java语法解析器生成工具)：JavaCC是更加专门的轻量级工具，易于上手且支持语法超前预测。[官网](https://javacc.java.net/)
+* [ANTLR](http://hao.jobbole.com/antlr/)：复杂的全功能自顶向下解析框架。[官网](http://www.antlr.org/)   
+* [JavaCC](JavaCC：Java语法解析器生成工具)：JavaCC是更加专门的轻量级工具，易于上手且支持语法超前预测。[官网](https://javacc.java.net/)  
 
 
 <h3 id="configuration">外部配置工具</h3>
-*支持外部配置的开发库。*
+*支持外部配置的开发库。*  
 
-* [config](http://hao.jobbole.com/config/)：针对JVM语言的配置库。[官网](https://github.com/typesafehub/config)
-* [owner](http://hao.jobbole.com/owner/)：减少冗余配置属性。[官网](https://github.com/lviggiano/owner)
+* [config](http://hao.jobbole.com/config/)：针对JVM语言的配置库。[官网](https://github.com/typesafehub/config)  
+* [owner](http://hao.jobbole.com/owner/)：减少冗余配置属性。[官网](https://github.com/lviggiano/owner)   
 
 <h3 id="constraint-satisfaction-problem-solver">约束满足问题求解程序</h3>
-*帮助解决约束满足问题的开发库。*
+*帮助解决约束满足问题的开发库。*   
 
-* [Choco](http://hao.jobbole.com/choco/)：可直接使用的约束满足问题求解程序，使用了约束规划技术。[官网](http://choco-solver.org/)
-* [JaCoP](http://hao.jobbole.com/jacop/)：为FlatZinc语言提供了一个接口，可以执行MiniZinc模型。[官网](https://github.com/radsz/jacop/)
-* [OptaPlanner](http://hao.jobbole.com/optaplanner/)：业务规划与资源调度优化求解程序。[官网](http://www.optaplanner.org/)
-* [Sat4J](http://hao.jobbole.com/sat4j/)：逻辑代数与优化问题最先进的求解程序。[官网](http://www.sat4j.org/)
+* [Choco](http://hao.jobbole.com/choco/)：可直接使用的约束满足问题求解程序，使用了约束规划技术。[官网](http://choco-solver.org/)    
+* [JaCoP](http://hao.jobbole.com/jacop/)：为FlatZinc语言提供了一个接口，可以执行MiniZinc模型。[官网](https://github.com/radsz/jacop/)    
+* [OptaPlanner](http://hao.jobbole.com/optaplanner/)：业务规划与资源调度优化求解程序。[官网](http://www.optaplanner.org/)  
+* [Sat4J](http://hao.jobbole.com/sat4j/)：逻辑代数与优化问题最先进的求解程序。[官网](http://www.sat4j.org/)   
 
-<h3 id="continuous-integration">持续集成</h3>
-* [Bamboo](http://hao.jobbole.com/bamboo/)：Atlassian解决方案，可以很好地集成Atlassian的其他产品。可以选择开源许可，也可以购买商业版。[官网](https://www.atlassian.com/software/bamboo)
-* CircleCI：提供托管服务，可以免费试用。[官网](https://circleci.com/)
-* [Codeship](http://hao.jobbole.com/codeship/)：提供托管服务，提供有限的免费模式。[官网](https://codeship.com/features)
-* [fabric8](hao.jobbole.com/fabric8/)：容器集成平台。[官网](http://fabric8.io/)
-* [Go](http://hao.jobbole.com/go/)：ThoughtWork开源解决方案。[官网](https://www.gocd.io/)
-* [Jenkins](http://hao.jobbole.com/jenkins/)：支持基于服务器的部署服务。[官网](http://jenkins-ci.org/)
-* [TeamCity](http://hao.jobbole.com/teamcity/)：JetBrain的持续集成解决方案，有免费版。[官网](http://www.jetbrains.com/teamcity/)
-* [Travis](http://hao.jobbole.com/travis/)：通常用作开源项目的托管服务。[官网](https://travis-ci.org)
-* [Buildkite](http://hao.jobbole.com/buildkite/): 持续集成工具，用简单的脚本就能设置pipeline，而且能快速构建，可以免费试用。[官网](https://buildkite.com/)
-
+<h3 id="continuous-integration">持续集成</h3>  
+* [Bamboo](http://hao.jobbole.com/bamboo/)：Atlassian解决方案，可以很好地集成Atlassian的其他产品。可以选择开源许可，也可以购买商业版。[官网](https://www.atlassian.com/software/bamboo)   
+* CircleCI：提供托管服务，可以免费试用。[官网](https://circleci.com/)   
+* [Codeship](http://hao.jobbole.com/codeship/)：提供托管服务，提供有限的免费模式。[官网](https://codeship.com/features)   
+* [fabric8](hao.jobbole.com/fabric8/)：容器集成平台。[官网](http://fabric8.io/)   
+* [Go](http://hao.jobbole.com/go/)：ThoughtWork开源解决方案。[官网](https://www.gocd.io/)   
+* [Jenkins](http://hao.jobbole.com/jenkins/)：支持基于服务器的部署服务。[官网](http://jenkins-ci.org/)   
+* [TeamCity](http://hao.jobbole.com/teamcity/)：JetBrain的持续集成解决方案，有免费版。[官网](http://www.jetbrains.com/teamcity/)    
+* [Travis](http://hao.jobbole.com/travis/)：通常用作开源项目的托管服务。[官网](https://travis-ci.org)   
+* [Buildkite](http://hao.jobbole.com/buildkite/): 持续集成工具，用简单的脚本就能设置pipeline，而且能快速构建，可以免费试用。[官网](https://buildkite.com/)   
+ 
 <h3 id="csv">CSV解析</h3>
 *简化CSV数据读写的框架与开发库*
 
-* [uniVocity-parsers](http://hao.jobbole.com/univocity-parsers/)：速度最快功能最全的CSV开发库之一，同时支持TSV与固定宽度记录的读写。[官网](https://github.com/uniVocity/univocity-parsers)
+* [uniVocity-parsers](http://hao.jobbole.com/univocity-parsers/)：速度最快功能最全的CSV开发库之一，同时支持TSV与固定宽度记录的读写。[官网](https://github.com/uniVocity/univocity-parsers)   
 
 <h3 id="database">数据库</h3>
-*简化数据库交互的相关工具。*
+*简化数据库交互的相关工具。*    
 
-* [Apache Phoenix](http://hao.jobbole.com/apache-phoenix/)：HBase针对低延时应用程序的高性能关系数据库层。[官网](http://phoenix.apache.org/)
-* [Crate](http://hao.jobbole.com/crate/)：实现了数据同步、分片、缩放、复制的分布式数据存储。除此之外还可以使用基于SQL的语法跨集群查询。[官网](https://crate.io/)
-* [Flyway](http://hao.jobbole.com/flyway/)：简单的数据库迁移工具。[官网](http://flywaydb.org/)
-* [H2](http://hao.jobbole.com/h2/)：小型SQL数据库，以可以作为内存数据库使用著称。[官网](http://h2database.com/)
-* [HikariCP](http://hao.jobbole.com/hikaricp/)：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP)
-* [JDBI](http://hao.jobbole.com/jdbi/)：便捷的JDBC抽象。[官网](http://jdbi.org/)
-* [jOOQ](http://hao.jobbole.com/jooq/)：为SQL schema生成typesafe代码。[官网](http://www.jooq.org/)
-* [MapDB](http://hao.jobbole.com/mapdb/)：以磁盘或堆内存中并发集合为基础的嵌入式数据库引擎。[官网](http://www.mapdb.org/)
-* [Presto](http://hao.jobbole.com/presto/)：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto)
-* [Querydsl](http://hao.jobbole.com/querydsl/)：Typesafe统一查询。[官网](http://www.querydsl.com/)
+* [Apache Phoenix](http://hao.jobbole.com/apache-phoenix/)：HBase针对低延时应用程序的高性能关系数据库层。[官网](http://phoenix.apache.org/)    
+* [Crate](http://hao.jobbole.com/crate/)：实现了数据同步、分片、缩放、复制的分布式数据存储。除此之外还可以使用基于SQL的语法跨集群查询。[官网](https://crate.io/)   
+* [Flyway](http://hao.jobbole.com/flyway/)：简单的数据库迁移工具。[官网](http://flywaydb.org/)    
+* [H2](http://hao.jobbole.com/h2/)：小型SQL数据库，以可以作为内存数据库使用著称。[官网](http://h2database.com/)    
+* [HikariCP](http://hao.jobbole.com/hikaricp/)：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP)   
+* [JDBI](http://hao.jobbole.com/jdbi/)：便捷的JDBC抽象。[官网](http://jdbi.org/)   
+* [jOOQ](http://hao.jobbole.com/jooq/)：为SQL schema生成typesafe代码。[官网](http://www.jooq.org/)   
+* [MapDB](http://hao.jobbole.com/mapdb/)：以磁盘或堆内存中并发集合为基础的嵌入式数据库引擎。[官网](http://www.mapdb.org/)   
+* [Presto](http://hao.jobbole.com/presto/)：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto)   
+* [Querydsl](http://hao.jobbole.com/querydsl/)：Typesafe统一查询。[官网](http://www.querydsl.com/)    
 
-<h3 id="data-structures">数据结构</h3>
-* [Apache Parquet](http://hao.jobbole.com/apache-parquet/)：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
-* [Protobuf](http://hao.jobbole.com/protobuf/)：Google数据交换格式。[官网](https://github.com/google/protobuf)
-* [SBE](http://hao.jobbole.com/sbe/)：简单二进制编码，是最快速的消息格式之一。[官网](https://github.com/real-logic/simple-binary-encoding)
-* [Wire](http://hao.jobbole.com/wire/)：整洁轻量级协议缓存。[官网](https://github.com/square/wire)
+<h3 id="data-structures">数据结构</h3>  
+* [Apache Parquet](http://hao.jobbole.com/apache-parquet/)：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)   
+* [Protobuf](http://hao.jobbole.com/protobuf/)：Google数据交换格式。[官网](https://github.com/google/protobuf)   
+* [SBE](http://hao.jobbole.com/sbe/)：简单二进制编码，是最快速的消息格式之一。[官网](https://github.com/real-logic/simple-binary-encoding)    
+* [Wire](http://hao.jobbole.com/wire/)：整洁轻量级协议缓存。[官网](https://github.com/square/wire)   
 
-<h3 id="date-and-time">时间日期工具库</h3>
-*处理时间和日期的开发库。*
+<h3 id="date-and-time">时间日期工具库</h3>  
+*处理时间和日期的开发库。*   
 
-* [Joda-Time](http://hao.jobbole.com/joda-time/)：在Java 8发布前，Joda-Time是实际使用的时间日期库标准。[官网](http://www.joda.org/joda-time/)
-* [Time4J](http://hao.jobbole.com/time4j/)：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
+* [Joda-Time](http://hao.jobbole.com/joda-time/)：在Java 8发布前，Joda-Time是实际使用的时间日期库标准。[官网](http://www.joda.org/joda-time/)  
+* [Time4J](http://hao.jobbole.com/time4j/)：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)   
 * [ThreeTen](http://hao.jobbole.com/ThreeTen/)：JSR-310实现，为JDK提供更具特点的时间和日期API。[官网](http://www.threeten.org)
-
+  
 <h3 id="dependency-injection">依赖注入</h3>
-*帮实现依赖翻转范式的开发库。* [官网](https://en.wikipedia.org/wiki/Inversion_of_control)
+*帮实现依赖翻转范式的开发库。* [官网](https://en.wikipedia.org/wiki/Inversion_of_control)   
 
-* [Apache DeltaSpike](http://hao.jobbole.com/apache-deltaspike/)：CDI扩展框架。[官网](https://deltaspike.apache.org/)
-* [Dagger2](http://hao.jobbole.com/dagger2/)：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
-* [Guice](http://hao.jobbole.com/guice/)：可以匹敌Dagger的轻量级注入框架。[官网](https://github.com/google/guice)
+* [Apache DeltaSpike](http://hao.jobbole.com/apache-deltaspike/)：CDI扩展框架。[官网](https://deltaspike.apache.org/)   
+* [Dagger2](http://hao.jobbole.com/dagger2/)：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)   
+* [Guice](http://hao.jobbole.com/guice/)：可以匹敌Dagger的轻量级注入框架。[官网](https://github.com/google/guice)   
 * [HK2](http://hao.jobbole.com/hk2/)：轻量级动态依赖注入框架。[官网](https://hk2.java.net)
 
 <h3 id="development">开发流程增强工具</h3>
 *从最基本的层面增强开发流程。*
 
-* [ADT4J](http://hao.jobbole.com/adt4j/)：针对代数数据类型的JSR-269代码生成器。[官网](https://github.com/sviperll/adt4j)
-* [AspectJ](http://hao.jobbole.com/aspectj/)：面向切面编程（AOP）的无缝扩展。[官网](https://eclipse.org/aspectj/)
-* [Auto](http://hao.jobbole.com/auto/)：源代码生成器集合。[官网](https://github.com/google/auto)
-* [DCEVM](http://hao.jobbole.com/dcevm/)：通过修改JVM在运行时支持对已加载的类进行无限次重定义。[官网](http://dcevm.github.io/)
-* HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent)
-* Immutables：类似Scala的条件类。[官网](http://immutables.github.io/)
-* JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster)
-* [JRebel](http://hao.jobbole.com/jrebel/)：无需重新部署，可以即时重新加载代码与配置的商业软件。[官网](http://zeroturnaround.com/software/jrebel/)
-* Lombok：减少冗余的代码生成器。[官网](https://projectlombok.org/)
-* Spring Loaded：类重载代理。[官网](https://github.com/spring-projects/spring-loaded)
-* [vert.x](http://hao.jobbole.com/vert-x/)：多语言事件驱动应用框架。[官网](http://vertx.io/)
+* [ADT4J](http://hao.jobbole.com/adt4j/)：针对代数数据类型的JSR-269代码生成器。[官网](https://github.com/sviperll/adt4j)  
+* [AspectJ](http://hao.jobbole.com/aspectj/)：面向切面编程（AOP）的无缝扩展。[官网](https://eclipse.org/aspectj/)   
+* [Auto](http://hao.jobbole.com/auto/)：源代码生成器集合。[官网](https://github.com/google/auto)   
+* [DCEVM](http://hao.jobbole.com/dcevm/)：通过修改JVM在运行时支持对已加载的类进行无限次重定义。[官网](http://dcevm.github.io/)  
+* HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent)   
+* Immutables：类似Scala的条件类。[官网](http://immutables.github.io/)   
+* JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster)   
+* [JRebel](http://hao.jobbole.com/jrebel/)：无需重新部署，可以即时重新加载代码与配置的商业软件。[官网](http://zeroturnaround.com/software/jrebel/)  
+* Lombok：减少冗余的代码生成器。[官网](https://projectlombok.org/)   
+* Spring Loaded：类重载代理。[官网](https://github.com/spring-projects/spring-loaded)   
+* [vert.x](http://hao.jobbole.com/vert-x/)：多语言事件驱动应用框架。[官网](http://vertx.io/)   
 
 <h3 id="distributed-applications">分布式应用</h3>
 *用来编写分布式容错应用的开发库和框架。*
 
-* [Akka](http://hao.jobbole.com/akka/)：用来编写分布式容错并发事件驱动应用程序的工具和运行时。[官网](http://akka.io)
-* [Apache Storm](http://hao.jobbole.com/storm/)：实时计算系统。[官网](http://storm.apache.org/)
-* [Apache ZooKeeper](http://hao.jobbole.com/zookeeper/)：针对大型分布式系统的协调服务，支持分布式配置、同步和名称注册。[官网](http://zookeeper.apache.org/)
-* [Hazelcast](http://hao.jobbole.com/Hazelcast/)：高可扩展内存数据网格。[官网](http://hazelcast.org/)
-* [Hystrix](http://hao.jobbole.com/hystrix/)：提供延迟和容错。[官网](https://github.com/Netflix/Hystrix)
-* [JGroups](http://hao.jobbole.com/jgroups/)：提供可靠的消息传递和集群创建的工具。[官网](http://www.jgroups.org/)
-* [Orbit](http://hao.jobbole.com/orbit/)：支持虚拟角色（Actor），在传统角色的基础上增加了另外一层抽象。[官网](http://orbit.bioware.com/)
-* [Quasar](http://hao.jobbole.com/quasar/)：为JVM提供轻量级线程和角色。[官网](http://www.paralleluniverse.co/quasar/)
+* [Akka](http://hao.jobbole.com/akka/)：用来编写分布式容错并发事件驱动应用程序的工具和运行时。[官网](http://akka.io)   
+* [Apache Storm](http://hao.jobbole.com/storm/)：实时计算系统。[官网](http://storm.apache.org/)   
+* [Apache ZooKeeper](http://hao.jobbole.com/zookeeper/)：针对大型分布式系统的协调服务，支持分布式配置、同步和名称注册。[官网](http://zookeeper.apache.org/)  
+* [Hazelcast](http://hao.jobbole.com/Hazelcast/)：高可扩展内存数据网格。[官网](http://hazelcast.org/)   
+* [Hystrix](http://hao.jobbole.com/hystrix/)：提供延迟和容错。[官网](https://github.com/Netflix/Hystrix)    
+* [JGroups](http://hao.jobbole.com/jgroups/)：提供可靠的消息传递和集群创建的工具。[官网](http://www.jgroups.org/)   
+* [Orbit](http://hao.jobbole.com/orbit/)：支持虚拟角色（Actor），在传统角色的基础上增加了另外一层抽象。[官网](http://orbit.bioware.com/)   
+* [Quasar](http://hao.jobbole.com/quasar/)：为JVM提供轻量级线程和角色。[官网](http://www.paralleluniverse.co/quasar/)    
 
 <h3 id="distributed-databases">分布式数据库</h3>
-*对应用程序而言，在分布式系统中的数据库看起来就像是只有一个数据源。*
-
-* [Apache Cassandra](http://hao.jobbole.com/cassandra/)：列式数据库，可用性高且没有单点故障。[官网](http://cassandra.apache.org)
-* [Apache HBase](http://hao.jobbole.com/hbase/)：针对大数据的Hadoop数据库。[官网](http://hbase.apache.org)
-* [Druid](http://hao.jobbole.com/druid/)：实时和历史OLAP数据存储，在聚集查询和近似查询方面表现不俗。[官网](http://druid.io)
-* [Infinispan](http://hao.jobbole.com/infinispan/)：针对缓存的高并发键值对数据存储。[官网](http://infinispan.org/)
+*对应用程序而言，在分布式系统中的数据库看起来就像是只有一个数据源。*  
+   
+* [Apache Cassandra](http://hao.jobbole.com/cassandra/)：列式数据库，可用性高且没有单点故障。[官网](http://cassandra.apache.org)   
+* [Apache HBase](http://hao.jobbole.com/hbase/)：针对大数据的Hadoop数据库。[官网](http://hbase.apache.org)  
+* [Druid](http://hao.jobbole.com/druid/)：实时和历史OLAP数据存储，在聚集查询和近似查询方面表现不俗。[官网](http://druid.io)   
+* [Infinispan](http://hao.jobbole.com/infinispan/)：针对缓存的高并发键值对数据存储。[官网](http://infinispan.org/)   
 
 <h3 id="distribution">发布</h3>
 *以本机格式发布应用程序的工具。*
 
-* Bintray：发布二进制文件版本控制工具。可以于Maven或Gradle一起配合使用。提供开源免费版本和几种商业收费版本。[官网](https://bintray.com/)
-* [Central Repository](http://hao.jobbole.com/central-repository/)：最大的二进制组件仓库，面向开源社区提供免费服务。Apache Maven默认使用Central [官网](http://search.maven.org/)Repository，也可以在所有其他构建工具中使用。
-* IzPack：为跨平台部署建立创作工具（Authoring Tool）。[官网](http://izpack.org/)
-* JitPack：打包GitHub仓库的便捷工具。可根据需要构建Maven、Gradle项目，发布可立即使用的组件。[官网](https://jitpack.io/)
-* Launch4j：将JAR包装为轻量级本机Windows可执行程序。[官网](http://launch4j.sourceforge.net/)
+* Bintray：发布二进制文件版本控制工具。可以于Maven或Gradle一起配合使用。提供开源免费版本和几种商业收费版本。[官网](https://bintray.com/)   
+* [Central Repository](http://hao.jobbole.com/central-repository/)：最大的二进制组件仓库，面向开源社区提供免费服务。Apache Maven默认使用Central [官网](http://search.maven.org/)Repository，也可以在所有其他构建工具中使用。  
+* IzPack：为跨平台部署建立创作工具（Authoring Tool）。[官网](http://izpack.org/)   
+* JitPack：打包GitHub仓库的便捷工具。可根据需要构建Maven、Gradle项目，发布可立即使用的组件。[官网](https://jitpack.io/)  
+* Launch4j：将JAR包装为轻量级本机Windows可执行程序。[官网](http://launch4j.sourceforge.net/)   
 * Nexus：支持代理和缓存功能的二进制管理工具。[官网](http://www.sonatype.com/nexus)
-* packr：将JAR、资源和JVM打包成Windows、Linux和Mac OS X本地发布文件。[官网](https://github.com/libgdx/packr/)
+* packr：将JAR、资源和JVM打包成Windows、Linux和Mac OS X本地发布文件。[官网](https://github.com/libgdx/packr/)   
 
 
 <h3 id="document-processing">文档处理工具</h3>
@@ -296,7 +296,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Apache POI](http://hao.jobbole.com/poi/)：支持OOXML规范（XLSX、DOCX、PPTX）以及OLE2规范（XLS、DOC、PPT）。[官网](http://poi.apache.org/)
 * [documents4j](http://hao.jobbole.com/documents4j/)：使用第三方转换器进行文档格式转换，转成类似MS Word这样的格式。[官网](http://documents4j.com)
-* [jOpenDocument](http://hao.jobbole.com/jopendocument/)：处理OpenDocument格式（由Sun公司提出基于XML的文档格式）。[官网](http://www.jopendocument.org/)
+* [jOpenDocument](http://hao.jobbole.com/jopendocument/)：处理OpenDocument格式（由Sun公司提出基于XML的文档格式）。[官网](http://www.jopendocument.org/)    
 
 <h3 id="functional-programming">函数式编程</h3>
 *函数式编程支持库。*
@@ -712,3 +712,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
 * [OnJava](http://hao.jobbole.com/onjava/)：O'Reilly Java包含最新的Java技术资讯，优质代码，完全的实例和详解。[官网](http://www.onjava.com/)
+
